@@ -1,0 +1,12 @@
+C:\Users\geoly\source\repos\KinogameAPI\Load_Tests\bin\Debug\net6.0\Load_Tests.deps.json
+C:\Users\geoly\source\repos\KinogameAPI\Load_Tests\bin\Debug\net6.0\Load_Tests.dll
+C:\Users\geoly\source\repos\KinogameAPI\Load_Tests\bin\Debug\net6.0\Load_Tests.pdb
+C:\Users\geoly\source\repos\KinogameAPI\Load_Tests\obj\Debug\net6.0\Load_Tests.csproj.AssemblyReference.cache
+C:\Users\geoly\source\repos\KinogameAPI\Load_Tests\obj\Debug\net6.0\Load_Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geoly\source\repos\KinogameAPI\Load_Tests\obj\Debug\net6.0\Load_Tests.AssemblyInfoInputs.cache
+C:\Users\geoly\source\repos\KinogameAPI\Load_Tests\obj\Debug\net6.0\Load_Tests.AssemblyInfo.cs
+C:\Users\geoly\source\repos\KinogameAPI\Load_Tests\obj\Debug\net6.0\Load_Tests.csproj.CoreCompileInputs.cache
+C:\Users\geoly\source\repos\KinogameAPI\Load_Tests\obj\Debug\net6.0\Load_Tests.dll
+C:\Users\geoly\source\repos\KinogameAPI\Load_Tests\obj\Debug\net6.0\refint\Load_Tests.dll
+C:\Users\geoly\source\repos\KinogameAPI\Load_Tests\obj\Debug\net6.0\Load_Tests.pdb
+C:\Users\geoly\source\repos\KinogameAPI\Load_Tests\obj\Debug\net6.0\ref\Load_Tests.dll

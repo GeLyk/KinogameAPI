@@ -1,0 +1,9 @@
+﻿global using Ardalis.GuardClauses;
+global using Domain.Aggregates.Columns;
+global using Domain.Aggregates.Draws;
+global using Domain.Aggregates.Tickets;
+global using Ardalis.Specification;
+global using Domain.SeedWork;
+global using Domain.ValueObjects.Tickets;
+global using Domain.ValueObjects.Columns;
+global using Ardalis.SmartEnum;

@@ -1,0 +1,166 @@
+2023-03-03 16:26:35.2920 Info Message Template Auto Format enabled
+2023-03-03 16:26:35.2920 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 16:26:35.3855 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 16:26:35.3855 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 16:26:35.3855 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 16:26:35.4101 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 16:26:35.4287 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.7254 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 16:26:35.7254 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.7421 Warn Logger: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.7467 Warn Logger: Microsoft.Extensions.Hosting.Internal.Host configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.7467 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Info has been skipped.
+2023-03-03 16:26:35.7467 Warn Logger: Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.7467 Warn Logger: API configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.7692 Warn Logger: Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.7910 Warn Logger: Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.7910 Warn Logger: Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.7910 Warn Logger: Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.8136 Warn Logger: Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.8136 Warn Logger: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.8511 Warn Logger: Microsoft.AspNetCore.Hosting.Diagnostics configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.8738 Warn Logger: Microsoft.AspNetCore.Routing.EndpointMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.8738 Warn Logger: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.8845 Warn Logger: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.8845 Warn Logger: Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.8845 Warn Logger: Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.8845 Warn Logger: Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.8845 Warn Logger: Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:35.9694 Warn Logger: Microsoft.AspNetCore.Routing.Matching.DfaMatcher configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:36.0006 Warn Logger: Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:26:36.0006 Warn Logger: Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:11.6328 Info Message Template Auto Format enabled
+2023-03-03 16:30:11.6393 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 16:30:11.7284 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 16:30:11.7284 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 16:30:11.7284 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 16:30:11.7545 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 16:30:11.7729 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.1748 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 16:30:12.1748 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.1919 Warn Logger: Microsoft.Extensions.Hosting.Internal.ApplicationLifetime configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.1966 Warn Logger: Microsoft.Extensions.Hosting.Internal.Host configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.1966 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Info has been skipped.
+2023-03-03 16:30:12.1966 Warn Logger: Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.1966 Warn Logger: API configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.2193 Warn Logger: Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.2426 Warn Logger: Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.2426 Warn Logger: Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.2566 Warn Logger: Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.2660 Warn Logger: Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.2660 Warn Logger: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.3043 Warn Logger: Microsoft.AspNetCore.Hosting.Diagnostics configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.3236 Warn Logger: Microsoft.AspNetCore.Routing.EndpointMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.3236 Warn Logger: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.3236 Warn Logger: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.3236 Warn Logger: Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.3401 Warn Logger: Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.3401 Warn Logger: Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.3401 Warn Logger: Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.4174 Warn Logger: Microsoft.AspNetCore.Routing.Matching.DfaMatcher configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.4490 Warn Logger: Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:30:12.4490 Warn Logger: Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:36:56.7314 Info Message Template Auto Format enabled
+2023-03-03 16:36:56.7314 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 16:36:56.8223 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 16:36:56.8223 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 16:36:56.8223 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 16:36:56.8466 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 16:36:56.8651 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:38:56.1947 Info Message Template Auto Format enabled
+2023-03-03 16:38:56.2014 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 16:38:56.2821 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 16:38:56.2821 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 16:38:56.2977 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 16:38:56.3112 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 16:38:56.3291 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:42:33.5320 Info Message Template Auto Format enabled
+2023-03-03 16:42:33.5320 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 16:42:33.6190 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 16:42:33.6190 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 16:42:33.6347 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 16:42:33.6347 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 16:42:33.6680 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:44:17.3317 Info Message Template Auto Format enabled
+2023-03-03 16:44:17.3403 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 16:44:17.4625 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 16:44:17.4625 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 16:44:17.4781 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 16:44:17.4781 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 16:44:17.5108 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:44:47.7953 Info Shutdown() called. Logger closing...
+2023-03-03 16:44:47.7953 Info Closing old configuration.
+2023-03-03 16:44:47.8240 Info Logger has been closed down.
+2023-03-03 16:48:19.5465 Info Message Template Auto Format enabled
+2023-03-03 16:48:19.5465 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 16:48:19.6369 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 16:48:19.6369 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 16:48:19.6369 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 16:48:19.6607 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 16:48:19.6786 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:52:51.4371 Info Message Template Auto Format enabled
+2023-03-03 16:52:51.4371 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 16:52:51.5308 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 16:52:51.5308 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 16:52:51.5468 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 16:52:51.5601 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 16:52:51.5792 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 16:56:15.1491 Info Message Template Auto Format enabled
+2023-03-03 16:56:15.1556 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 16:56:15.2281 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 16:56:15.2281 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 16:56:15.2523 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 16:56:15.2661 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 16:56:15.2841 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 17:08:51.0484 Info Message Template Auto Format enabled
+2023-03-03 17:08:51.0484 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 17:08:51.1392 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 17:08:51.1392 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 17:08:51.1548 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 17:08:51.1678 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 17:08:51.1865 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 17:17:35.6085 Info Message Template Auto Format enabled
+2023-03-03 17:17:35.6085 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 17:17:35.7004 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 17:17:35.7004 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 17:17:35.7004 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 17:17:35.7245 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 17:17:35.7430 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 17:18:04.0572 Info Shutdown() called. Logger closing...
+2023-03-03 17:18:04.0572 Info Closing old configuration.
+2023-03-03 17:18:04.0866 Info Logger has been closed down.
+2023-03-03 17:19:21.4477 Info Message Template Auto Format enabled
+2023-03-03 17:19:21.4477 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 17:19:21.5404 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 17:19:21.5404 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 17:19:21.5404 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 17:19:21.5642 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 17:19:21.5875 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 17:21:45.4456 Info Message Template Auto Format enabled
+2023-03-03 17:21:45.4520 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 17:21:45.5328 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 17:21:45.5328 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 17:21:45.5487 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 17:21:45.5643 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 17:21:45.5834 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 18:39:37.2064 Info Message Template Auto Format enabled
+2023-03-03 18:39:37.2142 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 18:39:37.3467 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 18:39:37.3536 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 18:39:37.3536 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 18:39:37.3844 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 18:39:37.4102 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 18:48:27.2805 Info Message Template Auto Format enabled
+2023-03-03 18:48:27.2805 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 18:48:27.3724 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 18:48:27.3724 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 18:48:27.3724 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 18:48:27.3972 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 18:48:27.4159 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
+2023-03-03 18:50:44.4441 Info Message Template Auto Format enabled
+2023-03-03 18:50:44.4503 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-03 18:50:44.5285 Info Registered target NLog.Targets.FileTarget(Name=Logstash)
+2023-03-03 18:50:44.5285 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-03 18:50:44.5438 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'RecordLog' not found for logging rule: *.
+2023-03-03 18:50:44.5598 Info Validating config: TargetNames=Logstash, lifetimeConsole, ConfigItems=64, FilePath=C:\Users\George\source\repos\KinogameAPI\KinogameAPI\bin\Debug\net6.0\NLog.config
+2023-03-03 18:50:44.6135 Warn Logger: Program configured with duplicate output to target: FileTarget(Name=Logstash). LoggingRule with NamePattern='*' and Level=Info has been skipped.
